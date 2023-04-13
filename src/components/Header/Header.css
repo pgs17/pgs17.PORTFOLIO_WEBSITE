@@ -1,0 +1,66 @@
+header {
+    height: 100vh;
+    padding-top: 7rem;
+    overflow: hidden;
+}
+.header_conatiner{
+    text-align: center;
+    height: 100%;
+    position: relative;
+}
+
+.CTA{
+    margin-top: 2.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+.Header__socials{
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 1.5rem;
+    position: absolute;
+    bottom: 4.5rem;
+    left: 0;
+}
+/* to draw a | css code : .Header__socials::after{
+    content: "";
+    width: 1px;
+    height: 1rem;
+    background: var(--color-primary);
+} linear gradient means color and its trasnparency can be given*/
+
+.me{
+    background: linear-gradient(var(--color-primary),transparent);
+    margin-top: 4rem;
+    height: 30rem;
+    width: 20rem;
+    position: absolute;
+    left: calc(50% - 9rem);
+    border-radius: 12rem 12rem 0 0;
+    overflow: hidden;
+}
+.scroll_down{
+    margin-top: 3rem;
+    position: absolute;
+    right: -2rem;
+    bottom: 5rem;
+    transform: rotate(90deg);
+    font-weight: 400;
+}
+
+@media  screen and (max-width:1024px) {
+   header{
+    height: 68vh;
+   }
+}
+@media screen and (max-width:600px) {
+    header{
+        height: 100vh;
+    }
+    .Header__socials,.scroll_down{
+        display: none;
+    }
+}
