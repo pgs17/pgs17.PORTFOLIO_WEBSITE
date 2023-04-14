@@ -22,21 +22,21 @@ const About = () => {
       <div className="about_content">
 <div className="about_cards">
   {/* each card has an article  */}
-  <article>
+  <article className='about_card'>
   < SiSkillshare className="about_icon"/>
   <h5>Skills</h5>
   <small>kindly visit GITHUB for the projects and download CV</small>
   </article>
 
 
-  <article>
+  <article className='about_card'>
   <GrUserExpert className="about_icon"/>
   <h5>Experience</h5>
   <small>3+ years</small>
   </article>
 
 
-  <article>
+  <article className='about_card'>
   < MdVisibility className="about_icon"/>
   <h5>Page Visits </h5>
   <small>300+</small>
