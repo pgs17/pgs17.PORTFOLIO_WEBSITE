@@ -5,23 +5,23 @@ import './Portfolio.css'
 const data = [
   {
     id: 1,
-    title: 'Blog Site',
-    github: 'https://github.com/pgs17'
+    title: 'Bank Web',
+    github: ' https://github.com/pgs17/Bank_Web'
   },
   {
     id: 2,
-    title: 'Blog Site',
-    github: 'https://github.com/pgs17'
+    title: 'CUE_CARD',
+    github: ' https://github.com/pgs17/CUE-CARD'
   },
   {
     id: 3,
-    title: 'Blog Site',
-    github: 'https://github.com/pgs17'
+    title: ' Digital System Design ',
+    github: ' https://github.com/pgs17/Verilog'
   },
   {
     id: 4,
-    title: 'Blog Site',
-    github: 'https://github.com/pgs17'
+    title: 'Football Blog Site',
+    github: 'https://github.com/pgs17/React-js'
   },
 ]
 
