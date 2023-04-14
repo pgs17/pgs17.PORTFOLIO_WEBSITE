@@ -25,25 +25,25 @@ const About = () => {
   <article className='about_card'>
   < SiSkillshare className="about_icon"/>
   <h5>Skills</h5>
-  <small>kindly visit GITHUB for the projects and download CV</small>
+  <small>Learned C/C++ ,HTML,CSS,JAVASCRIPT,REACT,NODEJS,MONGO-DB,EXPRESS.Kindly visit my GITHUB for projects </small>
   </article>
 
 
-  <article className='about_card'>
+  {/* <article className='about_card'>
   <GrUserExpert className="about_icon"/>
   <h5>Experience</h5>
   <small>3+ years</small>
-  </article>
+  </article> */}
 
 
-  <article className='about_card'>
+  {/* <article className='about_card'>
   < MdVisibility className="about_icon"/>
   <h5>Page Visits </h5>
   <small>300+</small>
-  </article>
+  </article> */}
 </div>
 <p>
-  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda animi quos fugiat sequi laboriosam officiis deleniti, in unde modi? Optio amet enim, unde atque ratione, vel repellat beatae obcaecati dolor omnis, laboriosam natus recusandae neque.
+  A student of Odisha University of Technology and Research with keen interest in Development and Research. An avid learner and trying to get better each day. Keep tabs on different sports like f1 and football and cricket,etc. and want to use my skills for betterment. Open to internships of various kinds so that I can understand my abilities better.Maybe listens to a lot of music
 </p>
 <a href="#contact" className="btn btn-primary" > LETS TALK</a>
       </div>
