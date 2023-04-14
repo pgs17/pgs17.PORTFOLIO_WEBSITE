@@ -3,7 +3,6 @@ import './Navbar.css'
 import {AiOutlineHome}from 'react-icons/ai'
 import{SiAboutdotme} from 'react-icons/si'
 import {BiBook} from 'react-icons/bi'
-import{GrUserWorker} from 'react-icons/gr'
 import{MdContactPage} from 'react-icons/md'
 
 const Navbar = () => {
@@ -15,7 +14,6 @@ const Navbar = () => {
       <SiAboutdotme/></a>
     <a href="#experience"  onClick={()=>setactive('#experience')} className={active==='#experience' ? 'active': ''} >
       <BiBook /></a>
-    <a href="#services" onClick={()=>setactive('#services')} className={active==='#services' ? 'active' : ''}  ><GrUserWorker /></a>
     <a href="#contact" onClick={()=>setactive('#contact')} className={active==='#contact' ? 'active' : ''}  ><MdContactPage /></a>
    </nav>
     
