@@ -1,9 +1,9 @@
 import React from 'react'
 import './About.css'
 import ME from '../..//assets/ME_ABOUT1.png'
-import{GrUserExpert} from 'react-icons/gr'
+// import{GrUserExpert} from 'react-icons/gr'
 import{SiSkillshare} from 'react-icons/si'
-import{MdVisibility} from 'react-icons/md'
+// import{MdVisibility} from 'react-icons/md'
 const About = () => {
   return (
     <section id='about'>
