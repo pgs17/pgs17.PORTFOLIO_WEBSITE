@@ -1,3 +1,12 @@
+ ### PRIYANSHU PORTFOLIO
+ 
+
+# Technologies used
+React JS - A JavaScript library for building user interfaces
+ CSS- A styling framework
+ 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
