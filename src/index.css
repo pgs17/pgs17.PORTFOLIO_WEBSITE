@@ -59,7 +59,7 @@ h1{
 /* every component will be wrapped around asection  */
 section{
  margin-top: 8rem;
- height:100vh;
+  
 }
 /* for direct child : class name > child name  */
 section > h2 , section > h5{
