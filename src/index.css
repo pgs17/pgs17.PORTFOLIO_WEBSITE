@@ -28,10 +28,8 @@
 --container-width-sm:90;
 }
 
-html{
-    scroll-behavior: smooth;
-    /* for smooth scorlling  */
-}
+ 
+ 
 ::-webkit-scrollbar{
     display: none;
 }
