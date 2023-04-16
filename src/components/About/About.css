@@ -19,6 +19,7 @@ place-items: center;
     overflow: hidden;
     /* to rotate the img we transform it  */
     transform: rotate(15deg);
+    transition: var(--transition);
     
 }
 .about_me_img:hover {

@@ -11,6 +11,7 @@
     border: 1px solid transparent ;
     border-radius: 2rem;
     transition: var(--transition);
+    margin-bottom: 10rem;
 }
 .contact_option:hover{
 

@@ -4,6 +4,7 @@ import {MdAttachEmail} from 'react-icons/md'
 import {AiFillInstagram} from 'react-icons/ai'
 import {BsLinkedin} from 'react-icons/bs'
 
+import {BsGithub} from 'react-icons/bs'
 const Contact = () => {
   return (
     <section id='contact'> 
@@ -32,6 +33,14 @@ const Contact = () => {
     <h4>Instagram</h4>
     <h5>Toxic_Priyanshu</h5>
     <a href="https://www.instagram.com/toxic_priyanshu/">Drop on My INSTAGRAM</a>
+  </article>
+
+
+  <article className="contact_option">
+     <  BsGithub className='icons'/>
+    <h4>Instagram</h4>
+    <h5>Toxic_Priyanshu</h5>
+    <a href=" https://github.com/pgs17 ">Drop on My GITHUB</a>
   </article>
 </div>
 </div>
