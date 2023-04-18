@@ -1,7 +1,7 @@
  ### PRIYANSHU PORTFOLIO
  
  ### Link
- pgs17-portfolio-website-465dcjh1d-pgs17.vercel.app
+ https://pgs17-portfolio-website.vercel.app/
  
 
 # Technologies used
