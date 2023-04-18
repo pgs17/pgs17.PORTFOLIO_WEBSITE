@@ -1,8 +1,8 @@
  ### PRIYANSHU PORTFOLIO
  
  ### Link
- https://vercel.com/dashboard
- https://portfoliopgs.web.app/
+ pgs17-portfolio-website-465dcjh1d-pgs17.vercel.app
+ 
 
 # Technologies used
 React JS - A JavaScript library for building user interfaces
