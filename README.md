@@ -1,6 +1,7 @@
  ### PRIYANSHU PORTFOLIO
  
  ### Link
+ https://vercel.com/dashboard
  https://portfoliopgs.web.app/
 
 # Technologies used
