@@ -17,7 +17,7 @@ const Contact = () => {
      <MdAttachEmail className='icons'/>
     <h4>Email</h4>
     <h5>SarangiPriyanshu@gmail.com</h5>
-    <a href="SarangiPriyanshu@gmail.com">Send A Mail</a>
+    <a href="mailto:sarangipriyanshu@gmail.com">Send A Mail</a>
   </article>
 
   <article className="contact_option">
