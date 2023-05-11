@@ -5,8 +5,8 @@ import './Portfolio.css'
 const data = [
   {
     id: 1,
-    title: 'Bank Web',
-    github: ' https://github.com/pgs17/Bank_Web'
+    title: 'Accidents in India(A ANALYSIS REPORT)',
+    github: 'https://github.com/pgs17/Accidents-In-India-'
   },
   {
     id: 2,
@@ -20,8 +20,13 @@ const data = [
   },
   {
     id: 4,
-    title: 'Football Blog Site',
-    github: 'https://github.com/pgs17/React-js'
+    title: 'Titanic Dataset Survival Prediction',
+    github: 'https://github.com/pgs17/TiTanic-Survival-Prediction'
+  },
+   {
+    id: 5,
+    title: 'Machine Learning Kaggle Competition',
+    github: 'https://github.com/pgs17/Kaggle-Playground-Notebooks'
   },
 ]
 
