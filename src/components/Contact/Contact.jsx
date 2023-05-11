@@ -38,9 +38,9 @@ const Contact = () => {
 
   <article className="contact_option">
      <  BsGithub className='icons'/>
-    <h4>Instagram</h4>
-    <h5>Toxic_Priyanshu</h5>
-    <a href=" https://github.com/pgs17 ">Drop on My GITHUB</a>
+    <h4>Github</h4>
+    <h5>Pgs17</h5>
+    <a href=" https://github.com/pgs17 ">Follow me on My GITHUB</a>
   </article>
 </div>
 </div>
