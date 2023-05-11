@@ -25,7 +25,7 @@ const About = () => {
   <article className='about_card'>
   < SiSkillshare className="about_icon"/>
   <h5>Skills</h5>
-  <strong>Learned C/C++ ,HTML,CSS,JAVASCRIPT,REACT,NODEJS,MONGO-DB,EXPRESS.Kindly visit my GITHUB for projects </strong>
+  <strong>Learned C/C++ ,HTML,CSS,JAVASCRIPT,REACT,NODEJS,MONGO-DB,EXPRESS and other PYTHON PACKAGES FOR DATA SCIENCE AND MACHINE LEARNING.Kindly visit my GITHUB for projects </strong>
   </article>
 
 
