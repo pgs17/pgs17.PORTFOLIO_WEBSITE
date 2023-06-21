@@ -28,6 +28,11 @@ const data = [
     title: 'Machine Learning Kaggle Competition',
     github: 'https://github.com/pgs17/Kaggle-Playground-Notebooks'
   },
+  {
+    id: 6,
+    title: 'Rest Api Using Nodejs And Express',
+    github: 'https://github.com/pgs17/Gym-App-API'
+  },
 ]
 
 const Portfolio = () => {
