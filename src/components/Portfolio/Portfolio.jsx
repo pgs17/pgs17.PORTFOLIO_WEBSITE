@@ -33,6 +33,11 @@ const data = [
     title: 'Rest Api Using Nodejs And Express',
     github: 'https://github.com/pgs17/Gym-App-API'
   },
+  {
+    id: 7,
+    title: 'text Summarizer using LLM MODELS',
+    github: 'https://github.com/pgs17/Text-Summarizer'
+  },
 ]
 
 const Portfolio = () => {
