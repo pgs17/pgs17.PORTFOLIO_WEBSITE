@@ -43,7 +43,7 @@ const About = () => {
   </article> */}
 </div>
 <p>
-  A student of Odisha University of Technology and Research with keen interest in Development and Research. An avid learner and trying to get better each day. Keep tabs on different sports like f1 and football and cricket,etc. and want to use my skills for betterment. Open to internships of various kinds so that I can understand my abilities better.Maybe listens to a lot of music
+  A student of Odisha University of Technology and Research with keen interest in  Backend Development and Research. An avid learner and trying to get better each day. Keep tabs on different sports like f1 and football and cricket,etc. and want to use my skills for betterment. Open to internships of various kinds so that I can understand my abilities better.Maybe listens to a lot of music
 </p>
 <a href="#contact" className="btn btn-primary" > LETS TALK</a>
       </div>
